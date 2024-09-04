@@ -73,6 +73,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ## Contact
 For any questions or inquiries, please contact [BiswajitJena2002](mailto:jbiswajitlife@gmail.com).
 
-```
-
-Make sure to replace any placeholders and adjust the content as necessary based on the specifics of your project.
